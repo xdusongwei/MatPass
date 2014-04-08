@@ -4,4 +4,6 @@ MatPass
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
 
-
+Demo
+====
+Ths demo will guide you how to use iMatPass to create a password and login， written by WPF using .NET 4.
