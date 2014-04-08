@@ -6,4 +6,4 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 Demo
 ====
-Ths demo will guide you how to use iMatPass to create a password and login， written by WPF using .NET 4.
+This demo will guide you how to use MatPass to create a password and login, written by WPF using .NET 4.
